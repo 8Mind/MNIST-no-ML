@@ -1,4 +1,4 @@
-# simple-MNIST
+# Overview
 A simple way of inference for MNIST data that is 96.91% accurate, not involving any *machine learning*.
 
 # How does it work?
