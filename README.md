@@ -1,5 +1,6 @@
 # Overview
-A simple way of inference for MNIST data that is 96.91% accurate, not involving any *machine learning*. Takes about 30s to run on a T4 GPU.
+A simple way of inference for MNIST data that is 96.91% accurate, not involving any *machine learning*. <br>
+Takes about 30s to run on a T4 GPU.
 
 # How does it work?
 + Each image lies in a vector space of dimension 28*28. 
